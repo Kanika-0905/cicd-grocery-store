@@ -22,7 +22,7 @@ const CategoryCard = ({ title, accent, icon }: { title: string; accent: string; 
     <div className="category-icon">{icon}</div>
     <div>
       <h3>{title}</h3>
-      <p>Fresh picks for every meal.</p>
+      <p>Fresh picks for every meal</p>
     </div>
   </article>
 );
