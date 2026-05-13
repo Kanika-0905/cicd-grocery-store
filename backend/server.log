@@ -1,0 +1,4 @@
+◇ injected env (3) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+MongoDB connection failed: connect ETIMEDOUT 159.41.197.34:27017
+Port 4174 is already in use. Set a different PORT in .env
